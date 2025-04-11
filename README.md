@@ -18,7 +18,7 @@ Simulation results demonstrate the nonlinear and coupled nature of the attitude 
 
 ## Files
 
-The repository includes a Jupyter notebook containing all code, simulations, and figures. The technical report, compiled from LaTeX, is provided as a PDF.
+The repository includes a Jupyter notebook containing all code, simulations, and figures. The technical report, compiled from LaTeX, is provided as a PDF. All images from simulations can be found in `images`.
 
 ## Contributions
 
